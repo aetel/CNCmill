@@ -7,7 +7,7 @@ CNC mill based on the Sienci Mill One
 Frame has been modified to be cut from 4mm steel
 
 
-##Shoulder of giants
+## Shoulder of giants
 
 The Mill One utilizes the following open-source projects:
 
