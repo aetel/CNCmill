@@ -1,1 +1,131 @@
-<svg id="top" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 709.66 567.93"><defs><style>.cls-1{fill:none;stroke:red;stroke-linecap:round;stroke-linejoin:round;}</style></defs><title>Y_Gantry</title><g id="CIRCLE"><path class="cls-1" d="M308.74,252.09a14.16,14.16,0,1,1,14.16,14.16,14.16,14.16,0,0,1-14.16-14.16Z" transform="translate(0.5 0.72)"/></g><g id="CIRCLE-2" data-name="CIRCLE"><path class="cls-1" d="M371.05,314.4a14.17,14.17,0,1,1,14.16,14.17,14.16,14.16,0,0,1-14.16-14.17Z" transform="translate(0.5 0.72)"/></g><g id="CIRCLE-3" data-name="CIRCLE"><path class="cls-1" d="M200.4,70.81A25.49,25.49,0,1,1,225.89,96.3,25.49,25.49,0,0,1,200.4,70.81Z" transform="translate(0.5 0.72)"/></g><g id="CIRCLE-4" data-name="CIRCLE"><path class="cls-1" d="M456.73,495.68a25.5,25.5,0,1,1,25.5,25.49,25.5,25.5,0,0,1-25.5-25.49Z" transform="translate(0.5 0.72)"/></g><g id="CIRCLE-5" data-name="CIRCLE"><path class="cls-1" d="M456.73,70.81a25.5,25.5,0,1,1,25.5,25.49,25.5,25.5,0,0,1-25.5-25.49Z" transform="translate(0.5 0.72)"/></g><g id="CIRCLE-6" data-name="CIRCLE"><path class="cls-1" d="M200.4,495.68a25.49,25.49,0,1,1,25.49,25.49,25.49,25.49,0,0,1-25.49-25.49Z" transform="translate(0.5 0.72)"/></g><rect class="cls-1" x="0.5" y="0.5" width="708.66" height="566.93"/><path d="M16.07,494.36V548H155V494.36ZM149.3,542.57H21.76V499.78H149.3Z" transform="translate(0.5 0.72)"/><path d="M137.71,526.38V531h-7.32V505H36.71L26.36,537.85H33.8l1.83-6.51h5.29v6.51h7.2V511.61h1.77v26.24h24V531H58.53v-6.32h9.31v-6.89H58.53v-5.88H81.06v26h9v-26h8.08v26h21.52V531h-12.5v-6.32h9.32v-6.89h-9.32v-5.88h14.18V512h.09v25.89h23V526.38ZM40.9,513.47v11H37.7l3.2-11.05v.07Z" transform="translate(0.5 0.72)"/><path d="M688.51,72.13V18.51H549.58V72.13ZM555.27,23.92H682.81V66.71H555.27Z" transform="translate(0.5 0.72)"/><path d="M566.87,40.11V35.53h7.31v26h93.69l10.34-32.88h-7.43L669,35.15h-5.29V28.64h-7.21V54.88h-1.76V28.64h-24v6.89h15.32v6.32h-9.32v6.9h9.32v5.87H623.51v-26h-9v26h-8.08v-26H584.88v6.89h12.5v6.32h-9.31v6.9h9.31v5.87H583.21v-.09h-.1V28.64h-23V40.11ZM663.68,53V42h3.2l-3.2,11.05V53Z" transform="translate(0.5 0.72)"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="top"
+   viewBox="0 0 709.66 567.93"
+   version="1.1"
+   sodipodi:docname="Y_Gantry_top.svg"
+   width="187.76421mm"
+   height="150.26482mm"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Y_Gantry_top</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview29"
+     showgrid="false"
+     units="mm"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.41554417"
+     inkscape:cx="354.82999"
+     inkscape:cy="283.965"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="top" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none;stroke:red;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <title
+     id="title6">Y_Gantry_top</title>
+  <g
+     id="CIRCLE">
+    <path
+       class="cls-1"
+       d="m 308.74,252.31 a 14.16,14.16 0 1 1 14.16,14.16 14.16,14.16 0 0 1 -14.16,-14.16 z"
+       transform="translate(0.5,0.5)"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     id="CIRCLE-2"
+     data-name="CIRCLE">
+    <path
+       class="cls-1"
+       d="m 371.05,314.62 a 14.17,14.17 0 1 1 14.16,14.16 14.16,14.16 0 0 1 -14.16,-14.16 z"
+       transform="translate(0.5,0.5)"
+       id="path11"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     id="CIRCLE-3"
+     data-name="CIRCLE">
+    <path
+       class="cls-1"
+       d="M 200.4,71 A 25.49,25.49 0 1 1 225.89,96.49 25.49,25.49 0 0 1 200.4,71 Z"
+       transform="translate(0.5,0.5)"
+       id="path14"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     id="CIRCLE-4"
+     data-name="CIRCLE">
+    <path
+       class="cls-1"
+       d="m 456.73,495.9 a 25.5,25.5 0 1 1 25.5,25.49 25.5,25.5 0 0 1 -25.5,-25.49 z"
+       transform="translate(0.5,0.5)"
+       id="path17"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     id="CIRCLE-5"
+     data-name="CIRCLE">
+    <path
+       class="cls-1"
+       d="M 456.73,71 A 25.5,25.5 0 1 1 482.23,96.49 25.5,25.5 0 0 1 456.73,71 Z"
+       transform="translate(0.5,0.5)"
+       id="path20"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     id="CIRCLE-6"
+     data-name="CIRCLE">
+    <path
+       class="cls-1"
+       d="M 200.4,495.9 A 25.49,25.49 0 1 1 225.89,521.39 25.49,25.49 0 0 1 200.4,495.9 Z"
+       transform="translate(0.5,0.5)"
+       id="path23"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <rect
+     class="cls-1"
+     x="0.5"
+     y="0.5"
+     width="708.65997"
+     height="566.92999"
+     id="rect26"
+     style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round" />
+</svg>
